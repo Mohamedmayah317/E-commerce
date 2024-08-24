@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Hero from "/public/images/hero.svg"
+import Hero from  "../public/images/hero.svg"
 
 export default function Home() {
   return (
